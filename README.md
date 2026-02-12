@@ -1,12 +1,12 @@
-# 🔎 Discord Account Checker (Python)
+#  Discord Account Checker (Python)
 
 A simple and efficient **Python** tool for checking the validity of Discord account tokens.
 
-> ⚠️ **Disclaimer:** This tool is intended for educational purposes and for checking **your own accounts only**. Misuse may violate the Terms of Service of Discord and can result in account suspension or termination.
+>  **Disclaimer:** This tool is intended for educational purposes and for checking **your own accounts only**. Misuse may violate the Terms of Service of Discord and can result in account suspension or termination.
 
 ---
 
-## 📌 Features
+##  Features
 
 * Validate Discord tokens
 * Bulk token checking (from file)
@@ -23,12 +23,12 @@ A simple and efficient **Python** tool for checking the validity of Discord acco
 
 ---
 
-## ⚙️ Requirements
+##  Requirements
 
 * Python **3.8+**
 * pip
 
-### 📦 Dependencies
+###  Dependencies
 
 Install via:
 
@@ -44,7 +44,7 @@ pip install requests colorama
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 discord-account-checker/
@@ -57,7 +57,7 @@ discord-account-checker/
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 1. Clone the repository:
 
@@ -76,7 +76,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 Run the script:
 
@@ -93,7 +93,7 @@ The program will:
 
 ---
 
-## 📝 Example Output
+##  Example Output
 
 ```
 [VALID] user#1234 | ID: 123456789012345678 | Nitro: Yes | 2FA: Enabled
@@ -102,7 +102,7 @@ The program will:
 
 ---
 
-## 🌐 Proxy Support (Optional)
+##  Proxy Support (Optional)
 
 If proxy support is implemented:
 
@@ -116,7 +116,7 @@ Store them in `proxies.txt` (if supported by your implementation).
 
 ---
 
-## 🔒 How It Works
+##  How It Works
 
 The script sends a GET request to:
 
@@ -135,7 +135,7 @@ Authorization: <TOKEN>
 
 ---
 
-## 📊 Possible Statuses
+##  Possible Statuses
 
 | Status       | Description                   |
 | ------------ | ----------------------------- |
@@ -146,7 +146,7 @@ Authorization: <TOKEN>
 
 ---
 
-## ⚠️ Important Notes
+##  Important Notes
 
 * Do not abuse the API.
 * Use delays between requests to avoid rate limits.
@@ -155,13 +155,13 @@ Authorization: <TOKEN>
 
 ---
 
-## 📜 License
+##  License
 
 MIT License
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Pull requests are welcome.
 For major changes, please open an issue first.
