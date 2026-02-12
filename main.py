@@ -4,7 +4,7 @@ import pathlib
 import re
 import time
 
-import jwt
+
 import requests
 from colorama import Fore
 
